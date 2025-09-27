@@ -9,7 +9,7 @@ int main() {
     for (int i = 0; i < n; ++i) {
         int x, y, z;
         cin >> x >> y >> z;
-        sum_x += x;
+         sum_x += x;
         sum_y += y;
         sum_z += z;
     }
